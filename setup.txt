@@ -1,0 +1,4 @@
+npm init
+npm i express express-graphql graphql
+--save-dev nodemon
+npm run devStart
